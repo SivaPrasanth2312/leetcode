@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SivaPrasanth2312/leetcode/tree/master/0029-divide-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/SivaPrasanth2312/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SivaPrasanth2312/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2396-strictly-palindromic-number](https://github.com/SivaPrasanth2312/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/SivaPrasanth2312/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/SivaPrasanth2312/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
