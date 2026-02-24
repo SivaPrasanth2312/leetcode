@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/SivaPrasanth2312/leetcode/tree/master/0029-divide-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/SivaPrasanth2312/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3516-find-closest-person](https://github.com/SivaPrasanth2312/leetcode/tree/master/3516-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
