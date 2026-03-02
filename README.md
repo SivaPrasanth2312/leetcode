@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/SivaPrasanth2312/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SivaPrasanth2312/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SivaPrasanth2312/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SivaPrasanth2312/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SivaPrasanth2312/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/SivaPrasanth2312/leetcode/tree/master/3467-transform-array-by-parity) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SivaPrasanth2312/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SivaPrasanth2312/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/SivaPrasanth2312/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SivaPrasanth2312/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SivaPrasanth2312/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SivaPrasanth2312/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/SivaPrasanth2312/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
