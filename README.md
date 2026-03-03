@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SivaPrasanth2312/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SivaPrasanth2312/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SivaPrasanth2312/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SivaPrasanth2312/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SivaPrasanth2312/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SivaPrasanth2312/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SivaPrasanth2312/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -119,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SivaPrasanth2312/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SivaPrasanth2312/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SivaPrasanth2312/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
