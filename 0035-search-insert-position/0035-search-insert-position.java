@@ -1,19 +1,10 @@
 class Solution {
     public int searchInsert(int[] nums, int target) {
-        ArrayList<Integer>list = new ArrayList<>();
-        for(int nu:nums){
-            list.add(nu);
-            
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>=target){
+                return i;
+            }
         }
-        int count=0;
-        if(list.contains(target)){
-           count =list.indexOf(target);
-        }else {
-            list.add(target);
-            Collections.sort(list);
-             count =list.indexOf(target);
-
-        }
-        return count;
+        return nums.length;
     }
 }
