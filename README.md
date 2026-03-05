@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SivaPrasanth2312/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SivaPrasanth2312/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SivaPrasanth2312/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SivaPrasanth2312/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SivaPrasanth2312/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SivaPrasanth2312/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/0169-majority-element) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SivaPrasanth2312/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SivaPrasanth2312/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SivaPrasanth2312/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/SivaPrasanth2312/leetcode/tree/master/3467-transform-array-by-parity) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SivaPrasanth2312/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
