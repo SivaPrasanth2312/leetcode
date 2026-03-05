@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SivaPrasanth2312/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SivaPrasanth2312/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SivaPrasanth2312/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/SivaPrasanth2312/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SivaPrasanth2312/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SivaPrasanth2312/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SivaPrasanth2312/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SivaPrasanth2312/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/SivaPrasanth2312/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SivaPrasanth2312/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/SivaPrasanth2312/leetcode/tree/master/3467-transform-array-by-parity) |
