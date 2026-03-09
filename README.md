@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/SivaPrasanth2312/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SivaPrasanth2312/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SivaPrasanth2312/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SivaPrasanth2312/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/SivaPrasanth2312/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SivaPrasanth2312/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SivaPrasanth2312/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SivaPrasanth2312/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SivaPrasanth2312/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SivaPrasanth2312/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2716-minimize-string-length](https://github.com/SivaPrasanth2312/leetcode/tree/master/2716-minimize-string-length) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SivaPrasanth2312/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SivaPrasanth2312/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/0169-majority-element) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SivaPrasanth2312/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SivaPrasanth2312/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [3467-transform-array-by-parity](https://github.com/SivaPrasanth2312/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SivaPrasanth2312/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SivaPrasanth2312/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SivaPrasanth2312/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SivaPrasanth2312/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SivaPrasanth2312/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2716-minimize-string-length](https://github.com/SivaPrasanth2312/leetcode/tree/master/2716-minimize-string-length) |
 | [3498-reverse-degree-of-a-string](https://github.com/SivaPrasanth2312/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SivaPrasanth2312/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
