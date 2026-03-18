@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/SivaPrasanth2312/leetcode/tree/master/0029-divide-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SivaPrasanth2312/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SivaPrasanth2312/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1837-sum-of-digits-in-base-k](https://github.com/SivaPrasanth2312/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SivaPrasanth2312/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2396-strictly-palindromic-number](https://github.com/SivaPrasanth2312/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SivaPrasanth2312/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
