@@ -1,6 +1,6 @@
 class Solution {
     public int kthFactor(int n, int k) {
-       
+        int fact =1;
         ArrayList<Integer>list = new ArrayList<>();
         for(int i=1;i<=n;i++){
            if(n%i==0)
@@ -8,15 +8,16 @@ class Solution {
              list.add(i);
         }
       
-     if(k<=list.size()){
-        return list.get(k-1);
-     }
+       if(list.size()<k){
+            return -1;
+        }
             
         
        
        
-      
+        System.out.print(list);
        
-        return -1;
+       
+        return list.get(k-1);
     }
 }
