@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/SivaPrasanth2312/leetcode/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SivaPrasanth2312/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SivaPrasanth2312/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SivaPrasanth2312/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SivaPrasanth2312/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/SivaPrasanth2312/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SivaPrasanth2312/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SivaPrasanth2312/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
