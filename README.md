@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SivaPrasanth2312/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/SivaPrasanth2312/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SivaPrasanth2312/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3731-find-missing-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SivaPrasanth2312/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/SivaPrasanth2312/leetcode/tree/master/2716-minimize-string-length) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SivaPrasanth2312/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SivaPrasanth2312/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3731-find-missing-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SivaPrasanth2312/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/SivaPrasanth2312/leetcode/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
