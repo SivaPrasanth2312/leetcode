@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SivaPrasanth2312/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/SivaPrasanth2312/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SivaPrasanth2312/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2733-neither-minimum-nor-maximum](https://github.com/SivaPrasanth2312/leetcode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/SivaPrasanth2312/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SivaPrasanth2312/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SivaPrasanth2312/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/SivaPrasanth2312/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/SivaPrasanth2312/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2716-minimize-string-length](https://github.com/SivaPrasanth2312/leetcode/tree/master/2716-minimize-string-length) |
