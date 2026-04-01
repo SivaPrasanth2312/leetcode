@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SivaPrasanth2312/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SivaPrasanth2312/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3866-first-unique-even-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SivaPrasanth2312/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SivaPrasanth2312/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3866-first-unique-even-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3467-transform-array-by-parity](https://github.com/SivaPrasanth2312/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SivaPrasanth2312/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3866-first-unique-even-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
