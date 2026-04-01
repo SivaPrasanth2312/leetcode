@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/SivaPrasanth2312/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SivaPrasanth2312/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SivaPrasanth2312/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1408-string-matching-in-an-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SivaPrasanth2312/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SivaPrasanth2312/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/SivaPrasanth2312/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SivaPrasanth2312/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1408-string-matching-in-an-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SivaPrasanth2312/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SivaPrasanth2312/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/SivaPrasanth2312/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2427-number-of-common-factors](https://github.com/SivaPrasanth2312/leetcode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
