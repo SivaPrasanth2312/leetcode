@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/SivaPrasanth2312/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SivaPrasanth2312/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/SivaPrasanth2312/leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SivaPrasanth2312/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SivaPrasanth2312/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3866-first-unique-even-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/3866-first-unique-even-element) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/SivaPrasanth2312/leetcode/tree/master/2716-minimize-string-length) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SivaPrasanth2312/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SivaPrasanth2312/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SivaPrasanth2312/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/SivaPrasanth2312/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3866-first-unique-even-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/3866-first-unique-even-element) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3467-transform-array-by-parity](https://github.com/SivaPrasanth2312/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SivaPrasanth2312/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SivaPrasanth2312/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3866-first-unique-even-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
