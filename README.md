@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SivaPrasanth2312/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/SivaPrasanth2312/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/SivaPrasanth2312/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2716-minimize-string-length](https://github.com/SivaPrasanth2312/leetcode/tree/master/2716-minimize-string-length) |
 | [2785-sort-vowels-in-a-string](https://github.com/SivaPrasanth2312/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3280-convert-date-to-binary](https://github.com/SivaPrasanth2312/leetcode/tree/master/3280-convert-date-to-binary) |
