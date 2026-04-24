@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/SivaPrasanth2312/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SivaPrasanth2312/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/SivaPrasanth2312/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/SivaPrasanth2312/leetcode/tree/master/0908-smallest-range-i) |
 | [1207-unique-number-of-occurrences](https://github.com/SivaPrasanth2312/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SivaPrasanth2312/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SivaPrasanth2312/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SivaPrasanth2312/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0905-sort-array-by-parity](https://github.com/SivaPrasanth2312/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/SivaPrasanth2312/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/0169-majority-element) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SivaPrasanth2312/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/SivaPrasanth2312/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SivaPrasanth2312/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SivaPrasanth2312/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SivaPrasanth2312/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
