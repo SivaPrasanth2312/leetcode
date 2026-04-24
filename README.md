@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/SivaPrasanth2312/leetcode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/SivaPrasanth2312/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3151-special-array-i](https://github.com/SivaPrasanth2312/leetcode/tree/master/3151-special-array-i) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/SivaPrasanth2312/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SivaPrasanth2312/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SivaPrasanth2312/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2716-minimize-string-length](https://github.com/SivaPrasanth2312/leetcode/tree/master/2716-minimize-string-length) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SivaPrasanth2312/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/SivaPrasanth2312/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SivaPrasanth2312/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SivaPrasanth2312/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3731-find-missing-elements) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SivaPrasanth2312/leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2351-first-letter-to-appear-twice](https://github.com/SivaPrasanth2312/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/2404-most-frequent-even-element) |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/SivaPrasanth2312/leetcode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/SivaPrasanth2312/leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/SivaPrasanth2312/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SivaPrasanth2312/leetcode/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
