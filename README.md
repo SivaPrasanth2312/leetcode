@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SivaPrasanth2312/leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/SivaPrasanth2312/leetcode/tree/master/0050-powx-n) |
 | [0263-ugly-number](https://github.com/SivaPrasanth2312/leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/SivaPrasanth2312/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0908-smallest-range-i](https://github.com/SivaPrasanth2312/leetcode/tree/master/0908-smallest-range-i) |
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SivaPrasanth2312/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SivaPrasanth2312/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
