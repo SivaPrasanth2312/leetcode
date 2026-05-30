@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SivaPrasanth2312/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/SivaPrasanth2312/leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3866-first-unique-even-element](https://github.com/SivaPrasanth2312/leetcode/tree/master/3866-first-unique-even-element) |
+| [3925-concatenate-array-with-reverse](https://github.com/SivaPrasanth2312/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/SivaPrasanth2312/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SivaPrasanth2312/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/SivaPrasanth2312/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3925-concatenate-array-with-reverse](https://github.com/SivaPrasanth2312/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Brainteaser
 |  |
 | ------- |
